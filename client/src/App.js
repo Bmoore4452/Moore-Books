@@ -11,7 +11,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route 
-            path='/' 
+            path='/home' 
             element={<SearchBooks />} 
           />
           <Route 
