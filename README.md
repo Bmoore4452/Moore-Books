@@ -8,7 +8,8 @@ This ia an app that can search every book in the google database
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Deployed](#deployed)
+- [Screenshot](#screenshot)
 - [Questions](#questions)
 
 ## Installation
@@ -18,6 +19,10 @@ The user can run `npm install` to install dependendcies the npm run develop to r
 ## Usage
 
 The user can go to the deployed page and search the database for any book in the google books database
+
+## Deployed
+
+[Deployed Application](https://powerful-castle-47500.herokuapp.com/)
 
 ## Screenshot
 
